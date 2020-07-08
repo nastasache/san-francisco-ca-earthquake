@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _migration:
     lastPromptedVersion: 1
-    version: 1
+    version: 0
