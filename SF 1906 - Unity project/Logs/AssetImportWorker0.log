@@ -208,3 +208,4 @@ Received Import Request.
 Start importing Assets/TerrainAccurate/Terrain Layers/Terrain 1 Layer 1.terrainlayer using Guid(b6d525e0008972541834ad6fafa294e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13786dd4ae88a12bc6e99135bc692921') in 0.024820 seconds
   Import took 0.029348 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
