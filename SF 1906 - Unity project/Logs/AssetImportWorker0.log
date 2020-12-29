@@ -240,3 +240,35 @@ Received Import Request.
 Start importing Assets/TerrainAccurate/TerrainData/Terrain 4 Data.asset using Guid(d8e90c1b73990d54a8e52c3cec548c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206ab13f43eab86248a52b292e0d38be') in 0.027009 seconds
   Import took 0.030717 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 760.818897 seconds.
+  path: Assets/TerrainAccurate/TerrainData/Terrain1Data.asset
+  artifactKey: Guid(f6e5958ab4615744fa1aafefc55eb4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainAccurate/TerrainData/Terrain1Data.asset using Guid(f6e5958ab4615744fa1aafefc55eb4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f7699282e7ba881f807413aacf6887') in 0.029480 seconds
+  Import took 0.034816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.371860 seconds.
+  path: Assets/TerrainAccurate/TerrainData/Terrain4Data.asset
+  artifactKey: Guid(d8e90c1b73990d54a8e52c3cec548c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainAccurate/TerrainData/Terrain4Data.asset using Guid(d8e90c1b73990d54a8e52c3cec548c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ed269c62e5a234283f3c9e46887a2b') in 0.027812 seconds
+  Import took 0.032011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.810752 seconds.
+  path: Assets/TerrainAccurate/TerrainData/Terrain3Data.asset
+  artifactKey: Guid(54c677f421d4ac344a25d714081f37e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainAccurate/TerrainData/Terrain3Data.asset using Guid(54c677f421d4ac344a25d714081f37e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59d8a33b2db907f42948aaa19c8a2be') in 0.029858 seconds
+  Import took 0.033837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.868156 seconds.
+  path: Assets/TerrainAccurate/TerrainData/Terrain2Data.asset
+  artifactKey: Guid(f7bc6fe59bf60224792fbb8f1b4c7ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainAccurate/TerrainData/Terrain2Data.asset using Guid(f7bc6fe59bf60224792fbb8f1b4c7ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7119dddd48a15a5fe070916243f9a605') in 0.030164 seconds
+  Import took 0.033867 seconds .
+
