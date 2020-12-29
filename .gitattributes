@@ -121,4 +121,4 @@
 *.unity             linguist-generated
 
 # Test
-TempTest001.asset	binary
+/Assets/Terrain - Accurate/Terrain Data/*.asset	binary
