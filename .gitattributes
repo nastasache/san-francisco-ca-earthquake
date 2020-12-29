@@ -119,3 +119,6 @@
 *.meta              linguist-generated
 *.prefab            linguist-generated
 *.unity             linguist-generated
+
+# Keep TerrainData assets as binary
+/Assets/Terrain - Accurate/Terrain Data/*.asset	binary
