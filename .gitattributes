@@ -122,3 +122,8 @@
 
 # Keep TerrainData assets as binary
 /SF 1906 - Unity project/Assets/TerrainAccurate/TerrainData/*.asset	binary
+
+Terrain1Data.asset	binary
+Terrain2Data.asset	binary
+Terrain3Data.asset	binary
+Terrain4Data.asset	binary
