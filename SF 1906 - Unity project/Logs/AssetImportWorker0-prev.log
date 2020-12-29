@@ -15,12 +15,12 @@ C:/Users/nasta/Desktop/Unity3/SF_Iulian/san-francisco-ca-earthquake/SF 1906 - Un
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60504
+62367
 Successfully changed project path to: C:/Users/nasta/Desktop/Unity3/SF_Iulian/san-francisco-ca-earthquake/SF 1906 - Unity project
 C:/Users/nasta/Desktop/Unity3/SF_Iulian/san-francisco-ca-earthquake/SF 1906 - Unity project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 59.38 ms, found 3 plugins.
-Preloading 1 native plugins for Editor in 0.76 ms.
+Refreshing native plugins compatible for Editor in 54.58 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.66 ms.
 Initialize engine version: 2020.2.0f1 (3721df5a8b28)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/nasta/Desktop/Unity3/SF_Iulian/san-francisco-ca-earthquake/SF 1906 - Unity project/Assets
@@ -36,7 +36,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56196
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
@@ -44,29 +44,29 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/E
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
-Registered in 0.002583 seconds.
+Registered in 0.002524 seconds.
 Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 49.13 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 49.40 ms, found 3 plugins.
 Preloading 1 native plugins for Editor in 0.06 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.467 seconds
+- Completed reload, in  1.470 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003164 seconds.
+Registered in 0.003104 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 52.46 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 52.69 ms, found 3 plugins.
 Preloading 1 native plugins for Editor in 0.06 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
@@ -82,42 +82,34 @@ NullReferenceException: Object reference not set to an instance of an object
 (Filename: Library/PackageCache/com.unity.xr.oculus@1.6.1/Runtime/OculusLoader.cs Line: 242)
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.781 seconds
+- Completed reload, in  0.785 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
 Preloading 1 native plugins for Editor in 0.06 ms.
 Unloading 2953 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 144.0 MB.
-System memory in use after: 144.1 MB.
+System memory in use after: 144.2 MB.
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3513.
-Total: 1.853900 ms (FindLiveObjects: 0.236600 ms CreateObjectMapping: 0.096900 ms MarkObjects: 1.457900 ms  DeleteObjects: 0.062000 ms)
+Total: 1.679300 ms (FindLiveObjects: 0.210300 ms CreateObjectMapping: 0.106500 ms MarkObjects: 1.301000 ms  DeleteObjects: 0.060800 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Terrain - Accurate/Terrain Layers
-  artifactKey: Guid(e39a9f7745fed7445a5a5d8cf34ba9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain - Accurate/Terrain Layers using Guid(e39a9f7745fed7445a5a5d8cf34ba9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2b0d81c9d3fac456357fd0f908570d') in 0.022285 seconds
-  Import took 0.028278 seconds .
+  path: Assets/TerrainAccurate
+  artifactKey: Guid(b04adbfa216420e4a8003d2ffec77a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainAccurate using Guid(b04adbfa216420e4a8003d2ffec77a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab23522080c0d6bfc6055c8f08175e89') in 0.020939 seconds
+  Import took 0.024870 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.106229 seconds.
-  path: Assets/Terrain - Accurate/Terrain Models
-  artifactKey: Guid(c6dc7125bdc6b884bbed017d17f850f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain - Accurate/Terrain Models using Guid(c6dc7125bdc6b884bbed017d17f850f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03552b568d8491dd7b33bcfc98551f3c') in 0.019134 seconds
-  Import took 0.023290 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.845616 seconds.
-  path: Assets/Terrain - Accurate/Terrain Raw
-  artifactKey: Guid(51a7ae828d092a7448565352f3c625eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain - Accurate/Terrain Raw using Guid(51a7ae828d092a7448565352f3c625eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf13f7d3db0abb5ca41ea73edf487b9') in 0.018792 seconds
-  Import took 0.022321 seconds .
+  Time since last request: 10.277582 seconds.
+  path: Assets/TerrainAccurate/TerrainData
+  artifactKey: Guid(f22b610731ac9ff4b9d0d4193fcec9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainAccurate/TerrainData using Guid(f22b610731ac9ff4b9d0d4193fcec9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa863a69e16d68def77fa2f7e6db6f1') in 0.018909 seconds
+  Import took 0.022342 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
