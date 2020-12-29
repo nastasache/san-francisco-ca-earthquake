@@ -121,4 +121,4 @@
 *.unity             linguist-generated
 
 # Keep TerrainData assets as binary
-/Assets/Terrain - Accurate/Terrain Data/*.asset	binary
+/Assets/TerrainAccurate/TerrainData/*.asset	binary
