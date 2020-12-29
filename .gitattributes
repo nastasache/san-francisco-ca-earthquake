@@ -121,4 +121,4 @@
 *.unity             linguist-generated
 
 # Keep TerrainData assets as binary
-/Assets/TerrainAccurate/TerrainData/*.asset	binary
+/SF 1906 - Unity project/Assets/TerrainAccurate/TerrainData/*.asset	binary
