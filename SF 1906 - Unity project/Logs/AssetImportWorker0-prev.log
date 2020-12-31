@@ -255,6 +255,7 @@ Received Import Request.
   artifactKey: Guid(d8e90c1b73990d54a8e52c3cec548c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TerrainAccurate/TerrainData/Terrain4Data.asset using Guid(d8e90c1b73990d54a8e52c3cec548c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ed269c62e5a234283f3c9e46887a2b') in 0.027812 seconds
   Import took 0.032011 seconds .
+<<<<<<< HEAD
 
 ========================================================================
 Received Import Request.
@@ -287,5 +288,22 @@ Received Import Request.
   artifactKey: Guid(d8e90c1b73990d54a8e52c3cec548c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TerrainAccurate/TerrainData/Terrain4Data.asset using Guid(d8e90c1b73990d54a8e52c3cec548c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6df14b3d73f1b3f62b285632c594e7') in 0.026826 seconds
   Import took 0.031654 seconds .
+=======
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Import Request.
+  Time since last request: 5.810752 seconds.
+  path: Assets/TerrainAccurate/TerrainData/Terrain3Data.asset
+  artifactKey: Guid(54c677f421d4ac344a25d714081f37e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainAccurate/TerrainData/Terrain3Data.asset using Guid(54c677f421d4ac344a25d714081f37e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59d8a33b2db907f42948aaa19c8a2be') in 0.029858 seconds
+  Import took 0.033837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.868156 seconds.
+  path: Assets/TerrainAccurate/TerrainData/Terrain2Data.asset
+  artifactKey: Guid(f7bc6fe59bf60224792fbb8f1b4c7ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainAccurate/TerrainData/Terrain2Data.asset using Guid(f7bc6fe59bf60224792fbb8f1b4c7ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7119dddd48a15a5fe070916243f9a605') in 0.030164 seconds
+  Import took 0.033867 seconds .
+>>>>>>> 469e6eeb62b231c3c2bc59540ac4fb8e848d03f3
+
